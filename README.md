@@ -9,3 +9,6 @@ A website thaht offers services for Search Engine Optimization
 
 ## Website
 https://saboagye23.github.io/sherol-horiseon-page/
+
+## Contribution
+Made by Sherol A
